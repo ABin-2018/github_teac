@@ -8,5 +8,6 @@ public class Hello_GitHub
         System.out.println("hello 0508");
         System.out.println("C++");
         System.out.println("mysql--");
+        System.out.println("java0001");
     }
 }
