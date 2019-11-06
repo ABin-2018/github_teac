@@ -9,5 +9,6 @@ public class Hello_GitHub
         System.out.println("C++");
         System.out.println("mysql--");
         System.out.println("java0001");
+        System.out.println("java0002");
     }
 }
